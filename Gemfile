@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem 'steep', require: false
 gem 'rspec'
 gem 'debug'
+gem 'pry'
+gem 'pry-byebug'
